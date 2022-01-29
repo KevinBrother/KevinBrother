@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**KevinBrother/KevinBrother** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Github-xingqiu/Github-xingqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](http://antzuhl.cn:4000/get/@KevinBrother.readme)
+
+![info](https://github-readme-stats.vercel.app/api?username=KevinBrother&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![](https://visitor-badge.glitch.me/badge?page_id=KevinBrother.readme)
+
